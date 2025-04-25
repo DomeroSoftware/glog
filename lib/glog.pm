@@ -6,7 +6,7 @@ use POSIX qw(strftime);
 use Test::More;
 use glog::logger;
 
-our $VERSION = '1.0.4';
+our $VERSION = '1.0.5';
 our @EXPORT = qw(Logger LogLevel Log LogFormat LogF LogFile LogDie LogWarn LogInfo LogDebug LogErr);
 
 our $GLOG = glog::logger->new;
