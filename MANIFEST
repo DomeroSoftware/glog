@@ -1,0 +1,16 @@
+Makefile.PL
+MANIFEST
+Changes
+LICENSE
+README
+README.md
+META.json
+META.yaml
+example/basic_glog_usage.pl
+example/object_oriented_logger.pl
+lib/glog.pm
+lib/glog/logger.pm
+lib/pod/glog.pod
+lib/pod/glog-logger.pod
+t/00-glog.t
+t/01-glog-logger.t
